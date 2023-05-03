@@ -1,0 +1,23 @@
+/** @format */
+
+.search-bar {
+  color: green;
+  font-size: 17px;
+  border: 2px solid blue;
+  padding: 0 10px;
+  height: 2em;
+  width: calc(100% - 70px);
+  background: #fafafa;
+}
+.search-bar:hover {
+  color: red;
+}
+
+.find {
+  cursor: pointer;
+  height: 3em;
+  color: green;
+}
+.find:hover {
+  color: red;
+}
